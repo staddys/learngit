@@ -1,5 +1,6 @@
  I want to study
- do you like compuyer
+ do you like compuyer  yes
  study make me happy
  creating a new branch & staddys
+
 
