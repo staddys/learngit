@@ -2,7 +2,8 @@
 int main()
 {
 	printf(" I want to study hard ");
-	printf("I like linux  yes");
+	printf("I like linux  yes or no");
+	
 }
 
 
